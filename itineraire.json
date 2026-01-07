@@ -1,0 +1,259 @@
+{
+  "pays": "Inde",
+  "drapeau": "🇮🇳",
+  "symbole": "🐘",
+  "titre": "Évasion relaxante au cœur de l'Inde",
+  "budget_total": "Environ 1500-1600 €/personne",
+  "duree": "7 jours",
+  "temps_vol": "Environ 8h-10h (depuis Kirah, Irak, avec escale)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Delhi et immersion douce",
+      "legende": "Après votre vol, installez-vous confortablement à Delhi. La première journée est dédiée à une acclimatation en douceur, avec une balade relaxante dans un quartier historique pour sentir le pouls de la ville sans précipitation.",
+      "lieu": "Delhi",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport international Indira Gandhi (DEL).",
+        "<strong>🛏️</strong>: Transfert et installation à votre hôtel 3 étoiles à Delhi.",
+        "<strong>🚶‍♂️</strong>: Balade relaxante dans le quartier de Connaught Place, découvrez l'architecture coloniale et l'ambiance animée."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le mois de mai à Delhi est très chaud. Prévoyez des vêtements légers, amples et une bonne hydratation. Les activités sont adaptées pour minimiser l'exposition au soleil."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🕌",
+      "titre": "Patrimoine et sérénité à Delhi",
+      "legende": "Explorez des sites historiques emblématiques de Delhi, choisis pour leur beauté architecturale et leurs vastes espaces verts, permettant une visite paisible et enrichissante, loin de l'agitation urbaine.",
+      "lieu": "Delhi",
+      "activites": [
+        "<strong>🌳</strong>: Visite du Tombeau de Humayun, un magnifique jardin-tombeau précurseur du Taj Mahal.",
+        "<strong>🚶‍♀️</strong>: Promenade apaisante dans les Jardins de Lodhi, un havre de paix parsemé de tombes historiques.",
+        "<strong>🏛️</strong>: Découverte du Qutub Minar, un minaret impressionnant et ses complexes architecturaux."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Tombeau de Humayun, Delhi",
+          "categorie": "Site historique",
+          "coords": { "lat": 28.5933, "lng": 77.2507 }
+        },
+        {
+          "nom_recherche": "Jardins de Lodhi, Delhi",
+          "categorie": "Parc",
+          "coords": { "lat": 28.5919, "lng": 77.2238 }
+        },
+        {
+          "nom_recherche": "Qutub Minar, Delhi",
+          "categorie": "Site historique",
+          "coords": { "lat": 28.5245, "lng": 77.1855 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Conseil chaleur",
+          "texte": "Commencez les visites tôt le matin pour éviter les heures les plus chaudes de la journée. Portez un chapeau et buvez beaucoup d'eau."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🧘‍♀️",
+      "titre": "Spiritualité et détente",
+      "legende": "Cette journée est dédiée à la découverte de la spiritualité indienne et à la relaxation. Visitez un temple majestueux et terminez la journée par une expérience de bien-être pour recharger vos batteries.",
+      "lieu": "Delhi",
+      "activites": [
+        "<strong>🕉️</strong>: Exploration du Temple Akshardham, un complexe spirituel et culturel grandiose.",
+        "<strong>🌸</strong>: Détente au Jardin des Cinq Sens, un parc unique conçu pour stimuler les sens.",
+        "<strong>💆‍♀️</strong>: Séance de massage ayurvédique ou spa pour une relaxation profonde."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Temple Akshardham, Delhi",
+          "categorie": "Temple",
+          "coords": { "lat": 28.6127, "lng": 77.2773 }
+        },
+        {
+          "nom_recherche": "Jardin des Cinq Sens, Delhi",
+          "categorie": "Jardin",
+          "coords": { "lat": 28.5173, "lng": 77.2096 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🙏",
+          "titre": "Respect des lieux",
+          "texte": "Au Temple Akshardham, une tenue modeste est requise (épaules et genoux couverts). Les appareils électroniques ne sont pas autorisés à l'intérieur."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🏰",
+      "titre": "Évasion royale à Neemrana",
+      "legende": "Quittez l'agitation de Delhi pour une expérience unique dans un fort-palace historique transformé en hôtel. Profitez du cadre majestueux et des installations pour une journée de pur repos et de découverte architecturale.",
+      "lieu": "Neemrana",
+      "activites": [
+        "<strong>🚗</strong>: Transfert matinal vers Neemrana (environ 2-3h de route depuis Delhi).",
+        "<strong>👑</strong>: Installation au Neemrana Fort Palace, un hôtel patrimonial exceptionnel.",
+        "<strong>🏊‍♀️</strong>: Détente au bord de la piscine ou exploration libre des terrasses et jardins du fort."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Neemrana Fort Palace, Neemrana",
+          "categorie": "Hôtel patrimonial",
+          "coords": { "lat": 27.9867, "lng": 76.3776 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "✨",
+          "titre": "Expérience unique",
+          "texte": "Le Neemrana Fort Palace offre une immersion dans l'histoire avec un confort moderne. C'est une véritable oasis de tranquillité."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🌿",
+      "titre": "Sérénité et paysages à Neemrana",
+      "legende": "Profitez pleinement de l'atmosphère paisible de Neemrana. Cette journée est dédiée à la relaxation, aux promenades douces et à l'appréciation des vues panoramiques depuis le fort, loin de toute contrainte.",
+      "lieu": "Neemrana",
+      "activites": [
+        "<strong>🚶‍♂️</strong>: Balade matinale dans les environs du fort ou exploration des différentes ailes du palais.",
+        "<strong>📚</strong>: Lecture et repos dans un des nombreux recoins paisibles du fort.",
+        "<strong>🌅</strong>: Coucher de soleil sur les collines environnantes depuis une terrasse du fort."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Neemrana Fort Palace, Neemrana",
+          "categorie": "Hôtel patrimonial",
+          "coords": { "lat": 27.9867, "lng": 76.3776 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🧘",
+          "titre": "Bien-être",
+          "texte": "Certains hôtels patrimoniaux proposent des cours de yoga ou des soins ayurvédiques. Renseignez-vous à l'avance pour une expérience encore plus relaxante."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🛍️",
+      "titre": "Retour à Delhi et saveurs locales",
+      "legende": "Après la quiétude de Neemrana, retour à Delhi pour une dernière immersion. Profitez-en pour quelques achats de souvenirs et savourez un dîner d'adieu, explorant les délices culinaires de la capitale indienne.",
+      "lieu": "Delhi",
+      "activites": [
+        "<strong>🚗</strong>: Retour à Delhi en matinée.",
+        "<strong>🎁</strong>: Temps libre pour le shopping de souvenirs dans les marchés locaux (ex: Dilli Haat ou Janpath Market).",
+        "<strong>🍽️</strong>: Dîner d'adieu dans un restaurant proposant des spécialités indiennes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Dilli Haat, Delhi",
+          "categorie": "Marché artisanal",
+          "coords": { "lat": 28.5727, "lng": 77.2081 }
+        },
+        {
+          "nom_recherche": "Janpath Market, Delhi",
+          "categorie": "Marché",
+          "coords": { "lat": 28.6256, "lng": 77.2197 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🌶️",
+          "titre": "Cuisine indienne",
+          "texte": "N'hésitez pas à demander des plats \"non épicés\" si vous n'êtes pas habitué à la cuisine indienne. Il y a une grande variété de saveurs à découvrir."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛫",
+      "titre": "Départ de Delhi",
+      "legende": "Profitez d'un dernier petit-déjeuner indien avant de vous diriger vers l'aéroport pour votre vol retour, la tête remplie de souvenirs apaisants de votre séjour en Inde.",
+      "lieu": "Delhi",
+      "activites": [
+        "<strong>🍳</strong>: Petit-déjeuner à l'hôtel.",
+        "<strong>✈️</strong>: Transfert à l'aéroport international Indira Gandhi (DEL) pour votre vol retour."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🛂",
+          "titre": "Formalités de départ",
+          "texte": "Prévoyez suffisamment de temps pour les formalités d'enregistrement et de sécurité à l'aéroport, qui peuvent être longues."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 624 €/pers (A/R Kirah-Delhi)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 125 €/pers (taxis, rickshaws, transfert Neemrana)", "symbole": "🚕" },
+    { "titre": "Budget repas:", "legende": "Environ 250 €/pers (7 jours, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 400 €/pers (6 nuits en hôtel 3*, incluant Neemrana)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 125 €/pers (entrées sites, spa)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Octobre à Mars", "symbole": "☀️" },
+    { "titre": "Note sur Mai: Très chaud, mais gérable avec une bonne planification et des activités adaptées.", "symbole": "🌡️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Visa: Un visa électronique (e-Visa) est obligatoire pour la plupart des nationalités. Faites la demande bien à l'avance.", "symbole": "🛂" },
+    { "titre": "Monnaie: La roupie indienne (INR). Les cartes de crédit sont acceptées dans les grandes villes, mais ayez toujours de la petite monnaie.", "symbole": "💰" },
+    { "titre": "Langue: L'hindi et l'anglais sont les langues officielles. L'anglais est largement parlé dans les zones touristiques.", "symbole": "🗣️" },
+    { "titre": "Tenue vestimentaire: Privilégiez des vêtements légers, amples et modestes, surtout lors de la visite de lieux de culte.", "symbole": "👗" },
+    { "titre": "Santé: Consultez votre médecin pour les vaccins recommandés et prévoyez une trousse de premiers secours.", "symbole": "💊" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "L'Inde est le berceau du \"zéro\" en mathématiques, une invention révolutionnaire qui a transformé le système numérique mondial."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Les vaches sont considérées comme sacrées en Inde et se promènent librement dans les rues, ayant la priorité sur la circulation. Un spectacle quotidien et surprenant !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍚",
+      "titre": "Biryani",
+      "description": "Un plat de riz basmati parfumé, cuit avec des épices, de la viande (poulet, agneau) ou des légumes, souvent servi avec du raïta (sauce au yaourt)."
+    },
+    {
+      "symbole": "🍽️",
+      "titre": "Thali",
+      "description": "Un assortiment de petits plats (currys, lentilles, légumes, riz, pain) servis sur un grand plateau, offrant un aperçu complet des saveurs régionales."
+    },
+    {
+      "symbole": "🥛",
+      "titre": "Lassi",
+      "description": "Une boisson rafraîchissante à base de yaourt, souvent sucrée et parfumée à la mangue, à la rose ou à la cardamome, parfaite pour les chaudes journées."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/BGW-DEL/2026-05-15/2026-05-22", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Incredible India", "url": "https://www.incredibleindia.org/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Delhi", "url": "https://www.accuweather.com/fr/in/new-delhi/202193/weather-forecast/202193", "symbole": "🌤️" },
+    { "legende": "E-Visa Inde", "titre": "Site officiel e-Visa", "url": "https://indianvisaonline.gov.in/evisa/tvoa.html", "symbole": "🛂" }
+  ]
+}
